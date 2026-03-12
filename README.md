@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner.gif" alt="banner" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mickael+%F0%9F%91%8B;Building+AI-native+tools;Agents+%C2%B7+Voice+%C2%B7+Vision+%C2%B7+Infrastructure" alt="Typing SVG" />
 </div>
 
