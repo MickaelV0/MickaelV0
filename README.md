@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="./banner.gif" alt="banner" width="100%" />
+  <img src="./banner.gif" alt="Animated neural network — Mickael B., AI builder from France" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mickael+%F0%9F%91%8B;Building+AI-native+tools;Agents+%C2%B7+Voice+%C2%B7+Vision+%C2%B7+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mickael+%F0%9F%91%8B;I+ship+AI+tools+that+run+locally;Agents+that+listen%2C+speak+%26+see" alt="Hi, I'm Mickael. I ship AI tools that run locally — agents that listen, speak and see." />
 </div>
 
 <br/>
 
-I build **AI-native tools** — autonomous agents, voice interfaces, image generation CLIs, and the developer infrastructure to run them all.
+I build **local-first AI tools** — agents, voice, and image generation that run on your hardware, without cloud lock-in. Open infrastructure for developers who want control over their stack.
+
+> Most of this runs on an RTX 5070 Ti in my home lab. If it needs a cloud subscription, I haven't built it yet.
 
 ---
 
@@ -16,10 +18,13 @@ I build **AI-native tools** — autonomous agents, voice interfaces, image gener
 
 | | Project | Description |
 |:--|:--------|:------------|
-| 🤖 | **[Lyra](https://github.com/Roxabi/lyra)** | Personal AI agent — Telegram + Discord, hub-and-spoke architecture |
-| 🎙️ | **[VoiceCLI](https://github.com/Roxabi/voiceCLI)** | Unified TTS/STT CLI — Qwen3-TTS, Chatterbox, Whisper |
-| 🖼️ | **[ImageCLI](https://github.com/Roxabi/imageCLI)** | Local image generation — FLUX.1-dev, SD3.5 |
-| 🔌 | **[roxabi-plugins](https://github.com/Roxabi/roxabi-plugins)** | Open-source Claude Code plugins — context engineering for teams |
+| 🔌 | **[roxabi-plugins](https://github.com/Roxabi/roxabi-plugins)** | Claude Code skills for teams — pre-built context patterns that make AI pair programming consistent |
+| 🤖 | **[Lyra](https://github.com/Roxabi/lyra)** | Personal AI agent that runs 24/7 on Telegram and Discord, routing tasks across specialized sub-agents |
+| 🎙️ | **[VoiceCLI](https://github.com/Roxabi/voiceCLI)** | One CLI for speech synthesis and transcription — swap backends (Qwen3-TTS, Chatterbox, Whisper) without changing your workflow |
+| 🖼️ | **[ImageCLI](https://github.com/Roxabi/imageCLI)** | Local image generation from the terminal — FLUX.1-dev, FLUX.2-klein, SD3.5, no cloud API required |
+| 🏗️ | **[lyra-stack](https://github.com/Roxabi/lyra-stack)** | One-command supervisord setup — run the full Lyra stack with a single `make start` |
+
+*Currently: building the memory layer for Lyra — identity anchor, session lifecycle, L0 compaction.*
 
 ---
 
@@ -37,11 +42,11 @@ I build **AI-native tools** — autonomous agents, voice interfaces, image gener
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MickaelV0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MickaelV0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="Mickael's GitHub stats — contributions, stars, commits" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>🇫🇷 France · <a href="https://github.com/Roxabi">Roxabi org</a></sub>
+  <sub>🇫🇷 France · <a href="https://github.com/Roxabi">Roxabi</a> — the org behind these projects · Open to collaborating on AI tooling and infrastructure</sub>
 </div>
